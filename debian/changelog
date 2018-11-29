@@ -1,0 +1,28 @@
+ros-kinetic-uuv-plume-msgs (0.3.0-0xenial) xenial; urgency=high
+
+  * 0.3.0
+  * UPDATE CHANGELOG files
+  * ADD Service configuration for current velocity server
+  * RM Unnecessary log messages
+  * UPDATE CHANGELOG files
+  * ADD CHANGELOG and bump version to 0.2.1
+  * ADD Service files to create a passive scalar plume
+  * Contributors: Musa Morena Marcusso Manhaes, Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-plume-msgs (0.2.2-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-plume-msgs (0.2.1-0xenial) xenial; urgency=high
+
+  * ADD CHANGELOG and bump version to 0.2.1
+  * ADD Service files to create a passive scalar plume
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+
